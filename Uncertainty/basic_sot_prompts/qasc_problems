@@ -1,0 +1,34 @@
+{
+    "prompt": [
+        {
+            "question": "Q: When will an egg become fertilized? Answer Choices: (A) After ejaculation (B) Fully cooking the oysters (C) allow growth (D) Earth orbiting the Sun (E) in the autumn season (F) colder and wetter (G) Plant reproduction (H) during the day\nA:",
+            "rationale": "fertilization → sperm meets egg → after ejaculation",
+            "pred_ans": "A"
+        },
+        {
+            "question": "Q: What can infect bacteria? Answer Choices: (A) heat or cold (B) bioaerosols (C) burning coal (D) white vinegar (E) harm them (F) vinegar (G) influenza (H) fungi\nA:",
+            "rationale": "Virus → infect bacteria\nInfluenza → influenza virus → infect bacteria",
+            "pred_ans": "G"
+        },
+        {
+            "question": "Q: What can provide a renewable resource? Answer Choices: (A) By coral exoskeletons (B) oil (C) fossil fuel (D) damming a river (E) gas (F) peachleaf willow (G) sunlight (H) Electrical energy\nA:",
+            "rationale": "hydropower → renewable resource\ndamming a river → used for hydropower → provides a renewable resource",
+            "pred_ans": "D"
+        },
+        {
+            "question": "Q: What could cause an animal to startle? Answer Choices: (A) Firecrackers (B) Going into hibernation (C) an object (D) Electrical energy (E) an electric stove (F) Gathering food (G) Seeing prey (H) vehicles\nA:",
+            "rationale": "startle → sudden loud noise or movement → firecrackers",
+            "pred_ans": "A"
+        },
+        {
+            "question": "Q: What are formed by sediments such as clay and sand by water? Answer Choices: (A) detritus (B) stalactites (C) watershred (D) swamp vegetation (E) patch reefs (F) soft soil (G) kalenchoes (H) erosion\nA:",
+            "rationale": "sediments → clay and sand → deposited by water → forms stalactites",
+            "pred_ans": "B"
+        },
+        {
+            "question": "Q: Why do animals sleep through winter? Answer Choices: (A) To conserve energy (B) recovery time from fatigue (C) They get bored (D) Endocrine system (E) They only like warmth (F) dormant state (G) To save time (H) hydration\nA:",
+            "rationale": "winter → cold → conserve energy → dormant state",
+            "pred_ans": "A"
+        }
+    ]
+}

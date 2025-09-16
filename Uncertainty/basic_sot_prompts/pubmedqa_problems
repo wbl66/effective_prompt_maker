@@ -1,0 +1,34 @@
+{
+    "prompt": [
+        {
+            "question": "Q: Is low-density lipoprotein cholesterol to high-density lipoprotein cholesterol ratio the best surrogate marker for insulin resistance in non-obese Japanese adults?\nA:",
+            "pred_ans": "yes",
+            "rationale": "Analyzing that in non-obese Japanese adults, the low-density lipoprotein cholesterol to high-density lipoprotein cholesterol ratio correlates strongly with insulin resistance due to their specific metabolic characteristics and studies showing its predictive value over other markers."
+        },
+        {
+            "question": "Q: Is excessive chest compression rate associated with insufficient compression depth in prehospital cardiac arrest?\nA:",
+            "pred_ans": "yes",
+            "rationale": "Considering that an excessive chest compression rate (over 120 cpm) can reduce the time for chest recoil, leading to inadequate venous return and potentially causing compression depth to fall below the recommended 5 cm."
+        },
+        {
+            "question": "Q: Is autonomic function associated with the incidence of type 2 diabetes in a high-risk population : the Hoorn study?\nA:",
+            "pred_ans": "no",
+            "rationale": "Analyzing the Hoorn study's findings which indicate that while various risk factors were associated with type 2 diabetes incidence, autonomic function markers did not emerge as significant predictors independent of other metabolic factors in the high-risk population."
+        },
+        {
+            "question": "Q: Does g-protein-coupled inward rectifier potassium current contribute to ventricular repolarization?\nA:",
+            "pred_ans": "yes",
+            "rationale": "Considering that G-protein-coupled inward rectifier potassium (GIRK) currents regulate potassium influx, influencing the resting membrane potential and potentially affecting the repolarization phase of the ventricular action potential."
+        },
+        {
+            "question": "Q: Is uncorrelated randomness of the heart rate associated with sepsis in sick premature infants?\nA:",
+            "pred_ans": "yes",
+            "rationale": "Analyzing studies that show uncorrelated randomness of heart rate, measured by entropy analysis, is disrupted in sick premature infants with sepsis, indicating a loss of normal autonomic regulation and association with the condition."
+        },
+        {
+            "question": "Q: Are plasma anandamide and related n-acylethanolamide levels elevated in pregnancies complicated by hyperemesis gravidarum?\nA:",
+            "pred_ans": "no",
+            "rationale": "Analyzing research that finds plasma anandamide and related N-acylethanolamides are not consistently elevated in pregnancies with hyperemesis gravidarum, as studies show conflicting results without a clear association."
+        }
+    ]
+}

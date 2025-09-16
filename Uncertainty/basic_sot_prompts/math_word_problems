@@ -1,0 +1,34 @@
+{
+    "prompt": [
+        {
+            "question": "Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?\nA:",
+            "rationale": "initial trees = 15\nfinal trees = 21\ntrees planted = 21 - 15 = 6",
+            "pred_ans": "6"
+        },
+        {
+            "question": "Q: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?\nA:",
+            "rationale": "initial cars = 3\ncars arrived = 2\ntotal cars = 3 + 2 = 5",
+            "pred_ans": "5"
+        },
+        {
+            "question": "Q: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?\nA:",
+            "rationale": "Leah's chocolates = 32\nsister's chocolates = 42\ntotal = 32 + 42 = 74\nleft = 74 - 35 = 39",
+            "pred_ans": "39"
+        },
+        {
+            "question": "Q: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?\nA:",
+            "rationale": "initial Jason's lollipops = 20\nfinal Jason's lollipops = 12\nlollipops given to Denny = 20 - 12 = 8",
+            "pred_ans": "8"
+        },
+        {
+            "question": "Q: Shawn has five toys. For Christmas, he got two toys each from his mom and dad. How many toys does he have now?\nA:",
+            "rationale": "initial Shawn's toys = 5\nmom's toys = 2\ndad's toys = 2\ntotal toys = 5 + 2 + 2 = 9",
+            "pred_ans": "9"
+        },
+        {
+            "question": "Q: There were nine computers in the server room. Five more computers were installed each day, from monday to thursday. How many computers are now in the server room?\nA:",
+            "rationale": "initial computers = 9\ncomputers installed per day = 5\ndays = 4\ntotal computers = initial computers + (computers installed per day * days) = 9 + (5 * 4) = 29",
+            "pred_ans": "29"
+        }
+    ]
+}
